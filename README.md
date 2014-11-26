@@ -11,8 +11,6 @@ from "date" to "SqlsrvDate".
 
 Installation via Composer
 --------
-1. Composer
-
 Just add the following dependency to your composer.json file
 
     {
@@ -20,5 +18,3 @@ Just add the following dependency to your composer.json file
 			"maegnes/ZF2Doctrine2SqlsrvTypes": "dev-master"
         }
     }
-
-2. Or clone this project into your `./vendor/` directory.
