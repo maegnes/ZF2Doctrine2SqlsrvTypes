@@ -11,7 +11,8 @@ from "date" to "SqlsrvDate".
 
 Installation via Composer
 --------
-Just add the following dependency to your composer.json file
+Just add the following dependency to your composer.json file and add the module "ZF2Doctrine2SqlsrvTypes" to your modules list
+in the application.config.php.
 
     {
         "require": {
