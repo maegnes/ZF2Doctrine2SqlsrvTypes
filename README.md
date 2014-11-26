@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/maegnes/ZF2Doctrine2SqlsrvTypes.svg?branch=master)](https://travis-ci.org/maegnes/ZF2Doctrine2SqlsrvTypes)
+
 ZF2Doctrine2SqlsrvTypes
 =======================
 If you are working with Microsoft MSSQL and its "Sqlsrv"-Driver with Zend Framework2 and Doctrine2 you will
