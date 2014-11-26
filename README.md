@@ -15,10 +15,12 @@ Installation via Composer
 
 Just add the following dependency to your composer.json file
 
-	```json
+	```
     {
         "require": {
 			"maegnes/ZF2Doctrine2SqlsrvTypes": "dev-master"
+        }
     }
-	```
+    ```
+
 2. Or clone this project into your `./vendor/` directory.
