@@ -4,6 +4,8 @@ namespace ZF2Doctrine2SqlsrvTypesTests;
 
 use Doctrine\DBAL\Types\Type;
 
+require __DIR__ . '/../vendor/autoload.php';
+
 /**
  * Bootstrap class for the unit tests
  *
