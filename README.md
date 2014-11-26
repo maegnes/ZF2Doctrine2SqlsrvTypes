@@ -15,6 +15,6 @@ Just add the following dependency to your composer.json file
 
     {
         "require": {
-			"maegnes/ZF2Doctrine2SqlsrvTypes": "dev-master"
+			"maegnes/zf2doctrine2sqlsrv": "dev-master"
         }
     }
