@@ -45,7 +45,7 @@ class SqlsrvDateTest extends \PHPUnit_Framework_TestCase
      */
     public function testCorrectSqlDeclaration()
     {
-        $this->assertEquals('Date', $this->sqlSrvDate->getSqlDeclaration([], $this->platform));
+        $this->assertEquals('Date', $this->sqlSrvDate->getSqlDeclaration(array(), $this->platform));
     }
 
     /**
